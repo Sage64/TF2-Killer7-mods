@@ -1,4 +1,5 @@
 Killer7 inspired custom stuff i made for tf2
+designed for tf_use_min_viewmodels 1 and viewmodel_fov around 70
 
 Sounds are sv_pure "compatible" ( they'll still be replaced by the default sounds, but they wont make screeching sounds ) by matching the rate and filesize
 
