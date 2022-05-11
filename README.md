@@ -15,4 +15,4 @@ k7sounds_hitsounds:
   
 k7sounds_misc:
   - freezecam zoom in sound
-  - killer7 voice lines for the domination/revenge UI sounds
+  - voice lines for the domination/revenge UI sounds
